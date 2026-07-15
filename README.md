@@ -4,7 +4,8 @@ This repository contains the source code for a personal 3D portfolio built with 
 
 Live site: [https://shubhan.netlify.app/](https://shubhan.netlify.app/)
 
-![Portfolio Preview](public/images/preview1.png)
+<img width="1919" height="984" alt="preview1" src="https://github.com/user-attachments/assets/5971f149-cb72-4b11-9f5c-8be29b850a56" />
+
 
 ## Table of Contents
 
